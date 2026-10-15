@@ -1,0 +1,69 @@
+﻿{
+    "proyecto":  "TrayectIA Logistics Web App",
+    "projectId":  "16248707114991119578",
+    "pantallas":  [
+                      {
+                          "slug":  "iniciar-sesion",
+                          "titulo":  "Iniciar Sesión — TrayectIA",
+                          "screenId":  "4d4e731417a9472e95a7a5b4965b806a",
+                          "ancho":  "2560",
+                          "alto":  "2048"
+                      },
+                      {
+                          "slug":  "cobros-metricas",
+                          "titulo":  "Cobros y Métricas — TrayectIA",
+                          "screenId":  "0bb55c29cfbb484e9e58b763d86b8067",
+                          "ancho":  "2560",
+                          "alto":  "3288"
+                      },
+                      {
+                          "slug":  "aprobacion-cliente",
+                          "titulo":  "Link de Aprobación Cliente — TrayectIA",
+                          "screenId":  "cf6d4af7186246d2beb21bd26bbbcfda",
+                          "ancho":  "2560",
+                          "alto":  "2594"
+                      },
+                      {
+                          "slug":  "nuevo-viaje",
+                          "titulo":  "Nuevo Viaje y Cotizador — TrayectIA",
+                          "screenId":  "266dbc4b5940481495bfa38a438d58e2",
+                          "ancho":  "2560",
+                          "alto":  "2544"
+                      },
+                      {
+                          "slug":  "panel-inicio",
+                          "titulo":  "Panel de Inicio — TrayectIA",
+                          "screenId":  "2ed9d337dd484ebaa2b0392a720eb480",
+                          "ancho":  "2560",
+                          "alto":  "3168"
+                      },
+                      {
+                          "slug":  "plataforma-hombre-camion",
+                          "titulo":  "TrayectIA Hombre-Camión Management Platform",
+                          "screenId":  "3f374d0475eb4d05b040406e3144f2e7",
+                          "ancho":  "1280",
+                          "alto":  "1024"
+                      },
+                      {
+                          "slug":  "crear-cuenta",
+                          "titulo":  "Crear Cuenta — TrayectIA",
+                          "screenId":  "3872adaa963b43dea8d11e779d44bf65",
+                          "ancho":  "2560",
+                          "alto":  "2048"
+                      },
+                      {
+                          "slug":  "expediente-viaje",
+                          "titulo":  "Expediente de Viaje — TrayectIA",
+                          "screenId":  "9a223cdf9b184feb9c1f379b0caaa74a",
+                          "ancho":  "2560",
+                          "alto":  "3888"
+                      },
+                      {
+                          "slug":  "cerrar-sesion",
+                          "titulo":  "Cerrar Sesión — TrayectIA",
+                          "screenId":  "49b30844939b4c6b9cc83c1150cba9df",
+                          "ancho":  "2560",
+                          "alto":  "2256"
+                      }
+                  ]
+}
